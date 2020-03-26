@@ -2,12 +2,60 @@ public class Firstcode {
 
 	public static void main(String[] args) {
 	//	System.out.println("Hello");
+*******************************************************
+
+String x = "Umesh Joshi";
+		String y = "Welcome to sel";
+		System.out.println(x + " " +  y);
+*******************************************************
+String x = "Umesh Joshi";
+		String y = "Welcome to sel";
+		int a = 10;
+		int b = 20;
+		int c = 35;			
 		
-//int a = 100;
-//int b = 200;
-//System.out.println(a*b);
+		System.out.println(x + " " +  y + " " +  (a + b));
 		
-////		int a = 10;
-////			System.out.println("Umesh joshi"+ (a));
-//		String z = "Umesh Joshi";
-//		System.out.println("What is my name"+ z);
+		System.out.println(a + b);
+		
+	System.out.println(a + (b + c));
+	System.out.println((a + b) * c);
+	System.out.println((a + 30) / c);
+	System.out.println((a + 20) % 2.5);
+	System.out.println(a % c);
+	System.out.println(a + (c - b) + ++ b + --a + (a + a));
+	// 10 + 15 + 20 + 10 + 18
+
+*********************************************************
+
+	Scanner input = new Scanner (System.in);
+	System.out.print ("Enter English marks");
+	int English = input.nextInt();
+	
+	System.out.print ("Enter Maths marks");
+	int Maths = input.nextInt();
+	
+	System.out.print("Enter Science marks");
+	int Science = input.nextInt();
+	
+	System.out.print("Enter Geography marks");
+	int Geography = input.nextInt();
+	
+	System.out.print("Enter Computer marks");
+	int Computer = input.nextInt();
+	int total = English + Maths + Science + Geography + Computer;
+	int per = total * 100 / 500;
+	
+	if (per >= 60) {
+		System.out.println("% is" + per);
+				System.out.println("1st Div");
+	}
+		else if (per < 60 && per > 50){
+	System.out.println("% is" + per);
+	System.out.println("2nd Div");
+		}
+	 		
+		else {
+			System.out.println("Fail");
+
+	
