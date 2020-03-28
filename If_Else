@@ -1,0 +1,48 @@
+ Scanner input = new Scanner(System.in);
+		 System.out.print("Enter Martial status: ");
+		 String MartialStatus = input.next();
+		 System.out.println("Martial status is :" + MartialStatus == "Married");
+		System.out.print("Enter sex: ");
+		 String sex = input.next();
+		 System.out.print("Enter age: ");
+		 		 int age = input.nextInt();
+		 		 
+		 if (MartialStatus.equals("Married")) {
+		 System.out.println(" Dont worry you are insured");
+		} else if (sex.equals("male") && age > 30) {
+		System.out.println("you are insured");
+		} else if (sex.equals("female") && age > 25) {
+		System.out.println("you are insured");
+		} else {
+		System.out.println("I am sorry you are not insured");
+		*****************************************************************
+    Scanner input = new Scanner (System.in);
+//	System.out.print ("Enter English marks");
+//	int English = input.nextInt();
+//	
+//	System.out.print ("Enter Maths marks");
+//	int Maths = input.nextInt();
+//	
+//	System.out.print("Enter Science marks");
+//	int Science = input.nextInt();
+//	
+//	System.out.print("Enter Geography marks");
+//	int Geography = input.nextInt();
+//	
+//	System.out.print("Enter Computer marks");
+//	int Computer = input.nextInt();
+//	int total = English + Maths + Science + Geography + Computer;
+//	int per = total * 100 / 500;
+//	
+//	if (per >= 60) {
+//		System.out.println("% is" + per);
+//				System.out.println("1st Div");
+//	}
+//		else if (per < 60 && per > 50){
+//	System.out.println("% is" + per);
+//	System.out.println("2nd Div");
+//		}
+//	 		
+//		else {
+//			System.out.println("Fail");
+//		}
