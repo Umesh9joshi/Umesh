@@ -1,6 +1,6 @@
-<mxfile modified="2021-01-24T11:54:33.893Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="mH5TGR_rOz5miIipFqcC" version="14.2.7" type="github">
+<mxfile modified="2021-01-24T12:06:09.196Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="hCrWAfFhOsiqt6vZjI4P" version="14.2.7" type="github">
   <diagram id="C2fSY1v2SiZeoUbDoYyL" name="Page-1">
-    <mxGraphModel dx="2207" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2922" dy="685" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -120,14 +120,14 @@
             <mxPoint x="5" y="7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Kp5ftzpki0hWg8qFIfPd-52" value="Triage" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="Kp5ftzpki0hWg8qFIfPd-49">
-          <mxGeometry x="34" y="174" width="80" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="Kp5ftzpki0hWg8qFIfPd-53" value="Sprint Review" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Kp5ftzpki0hWg8qFIfPd-49">
           <mxGeometry x="14" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Kp5ftzpki0hWg8qFIfPd-55" value="Sprint Retrospective" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Kp5ftzpki0hWg8qFIfPd-49">
-          <mxGeometry x="14" y="310" width="120" height="60" as="geometry" />
+          <mxGeometry x="14" y="188" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Kp5ftzpki0hWg8qFIfPd-82" value="KPI / Reports" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Kp5ftzpki0hWg8qFIfPd-49">
+          <mxGeometry x="14" y="303" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Kp5ftzpki0hWg8qFIfPd-54" value="Product Increment" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1058" y="550" width="120" height="80" as="geometry" />
